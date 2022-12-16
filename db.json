@@ -1,8 +1,7 @@
 {
   "ecoomerce_data":[
     {
-      "products": [
-          {
+      
               "id": 1,
               "title": "iPhone 9",
               "description": "An apple mobile which is nothing like apple",
@@ -1840,11 +1839,7 @@
                   "https://i.dummyjson.com/data/products/100/3.jpg",
                   "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
               ]
-          }
-      ],
-      "total": 100,
-      "skip": 0,
-      "limit": 100
+        
   }
   ],
   "productdata":[
