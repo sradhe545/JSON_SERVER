@@ -22852,7 +22852,7 @@
             "stock": 83,
             "brand": "APPle",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+            "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images":
             "https://i.dummyjson.com/data/products/6/1,"
             },
@@ -22866,7 +22866,7 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/7/1.jpg"
             },
@@ -22880,7 +22880,7 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/8/1.jpg"
              },
@@ -22894,7 +22894,7 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/9/1.jpg"
             },
@@ -22908,7 +22908,7 @@
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+            "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
             "images":
             "https://i.dummyjson.com/data/products/10/1.jpg"
             },
@@ -22923,7 +22923,7 @@
                 "stock": 89,
                 "brand": "HP Pavilion",
                 "category": "laptops",
-                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
                 "images":
                 "https://i.dummyjson.com/data/products/10/1.jpg"
                 },
@@ -22938,7 +22938,7 @@
             "stock": 83,
             "brand": "APPle",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+            "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images":
             "https://i.dummyjson.com/data/products/6/1,"
             },
@@ -22952,7 +22952,7 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/7/1.jpg"
             },
@@ -22966,7 +22966,7 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/8/1.jpg"
              },
@@ -22980,7 +22980,7 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/9/1.jpg"
             },
@@ -22994,7 +22994,7 @@
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+            "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
             "images":
             "https://i.dummyjson.com/data/products/10/1.jpg"
             },
@@ -23009,7 +23009,7 @@
                 "stock": 89,
                 "brand": "HP Pavilion",
                 "category": "laptops",
-                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
                 "images":
                 "https://i.dummyjson.com/data/products/10/1.jpg"
                 },
@@ -23024,7 +23024,7 @@
             "stock": 83,
             "brand": "APPle",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+            "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images":
             "https://i.dummyjson.com/data/products/6/1,"
             },
@@ -23038,7 +23038,7 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/7/1.jpg"
             },
@@ -23052,7 +23052,7 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/8/1.jpg"
              },
@@ -23066,7 +23066,7 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/9/1.jpg"
             },
@@ -23080,7 +23080,7 @@
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+            "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
             "images":
             "https://i.dummyjson.com/data/products/10/1.jpg"
             },
@@ -23095,7 +23095,7 @@
                 "stock": 89,
                 "brand": "HP Pavilion",
                 "category": "laptops",
-                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
                 "images":
                 "https://i.dummyjson.com/data/products/10/1.jpg"
                 },
@@ -23110,7 +23110,7 @@
             "stock": 83,
             "brand": "APPle",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+            "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images":
             "https://i.dummyjson.com/data/products/6/1,"
             },
@@ -23124,7 +23124,7 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/7/1.jpg"
             },
@@ -23138,7 +23138,7 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/8/1.jpg"
              },
@@ -23152,7 +23152,7 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/9/1.jpg"
             },
@@ -23166,7 +23166,7 @@
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+            "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
             "images":
             "https://i.dummyjson.com/data/products/10/1.jpg"
             },
@@ -23181,7 +23181,7 @@
                 "stock": 89,
                 "brand": "HP Pavilion",
                 "category": "laptops",
-                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
                 "images":
                 "https://i.dummyjson.com/data/products/10/1.jpg"
                 },
@@ -23196,7 +23196,7 @@
             "stock": 83,
             "brand": "APPle",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+            "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images":
             "https://i.dummyjson.com/data/products/6/1,"
             },
@@ -23210,7 +23210,7 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/7/1.jpg"
             },
@@ -23224,7 +23224,7 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/8/1.jpg"
              },
@@ -23238,7 +23238,7 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+            "img": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
             "images": 
             "https://i.dummyjson.com/data/products/9/1.jpg"
             },
@@ -23252,7 +23252,7 @@
             "stock": 89,
             "brand": "HP Pavilion",
             "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+            "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
             "images":
             "https://i.dummyjson.com/data/products/10/1.jpg"
             },
@@ -23267,7 +23267,7 @@
                 "stock": 89,
                 "brand": "HP Pavilion",
                 "category": "laptops",
-                "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+                "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
                 "images":
                 "https://i.dummyjson.com/data/products/10/1.jpg"
                 }
