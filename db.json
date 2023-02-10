@@ -24174,7 +24174,50 @@
         }
         ],
         "pdi_admin":[],
-        "pdi_ts":[],
+        "pdi_ts":[
+            {
+                "username": "Shyam",
+                "email": "shyam@ts.com",
+                "password": "123",
+                "toj": "2023-02-05T09:37:55.256Z",
+                "id": 2
+              },
+              {
+                "username": "Lal",
+                "email": "lal@ts.com",
+                "password": "123",
+                "toj": "2023-02-02T09:37:55.256Z",
+                "id": 3
+              },
+              {
+                "username": "Aman",
+                "email": "aman@ts.com",
+                "password": "123",
+                "toj": "2023-01-05T09:37:55.256Z",
+                "id": 4
+              },
+              {
+                "username": "Neeraj",
+                "email": "neeraj@ts.com",
+                "password": "123",
+                "toj": "2023-01-11T09:37:55.256Z",
+                "id": 5
+              },
+              {
+                "username": "Sonali",
+                "email": "sonali@ts.com",
+                "password": "123",
+                "toj": "2022-12-05T09:37:55.256Z",
+                "id": 6
+              },
+              {
+                "username": "Ramu",
+                "email": "ramu123@ts.com",
+                "password": "123",
+                "toj": "2022-01-05T09:37:55.256Z",
+                "id": 2
+              }
+        ],
         "pdi_stu":[
             {
                 "username": "aman",
