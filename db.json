@@ -24175,7 +24175,22 @@
         ],
         "pdi_admin":[],
         "pdi_ts":[],
-        "pdi_stu":[],
+        "pdi_stu":[
+            {
+                "username": "aman",
+                "email": "aman@gmail.com",
+                "password": "123",
+                "profilepic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61Mv1Lqp-ceQoaJHCCVhJffG595ChzTTIuqkJUmZHZCiJ5RAGieDkLdYGks-5ZuAp1Co&usqp=CAU",
+                "gender": "Male",
+                "role": "Frontend",
+                "dob": "2011-02-10",
+                "state": "Bihar",
+                "city": "Bhagalpur",
+                "mobile": "9083487594",
+                "toj": "2023-02-10T07:18:58.076Z",
+                "id": 1
+              }
+        ],
         "pdi_lectures":[
             {
                 "video": "https://masai-course.s3.ap-south-1.amazonaws.com/material/videos/29056/5iF8JWciV37EG1EqiEZ1gWUWrLrtiEuPRBPJqmwj.mp4",
