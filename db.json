@@ -24176,7 +24176,17 @@
         "pdi_admin":[],
         "pdi_ts":[],
         "pdi_stu":[],
-        "pdi_lectures":[]
+        "pdi_lectures":[
+            {
+                "video": "https://masai-course.s3.ap-south-1.amazonaws.com/material/videos/29056/5iF8JWciV37EG1EqiEZ1gWUWrLrtiEuPRBPJqmwj.mp4",
+                "title": "Linked List",
+                "description": "hdjksl;",
+                "role": "Backend",
+                "timeOfCreation": "2023-02-10T04:17:43.732Z",
+                "createdBy": "rss",
+                "id": 2
+              }
+        ]
     
 
 }
