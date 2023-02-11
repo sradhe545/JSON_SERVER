@@ -24182,64 +24182,10 @@
               }
         ],
         "pdi_ts":[
-            {
-                "username": "Shyam",
-                "email": "shyam@ts.com",
-                "password": "123",
-                "toj": "2023-02-05T09:37:55.256Z",
-                "id": 2
-              },
-              {
-                "username": "Lal",
-                "email": "lal@ts.com",
-                "password": "123",
-                "toj": "2023-02-02T09:37:55.256Z",
-                "id": 3
-              },
-              {
-                "username": "Aman",
-                "email": "aman@ts.com",
-                "password": "123",
-                "toj": "2023-01-05T09:37:55.256Z",
-                "id": 4
-              },
-              {
-                "username": "Neeraj",
-                "email": "neeraj@ts.com",
-                "password": "123",
-                "toj": "2023-01-11T09:37:55.256Z",
-                "id": 5
-              },
-              {
-                "username": "Sonali",
-                "email": "sonali@ts.com",
-                "password": "123",
-                "toj": "2022-12-05T09:37:55.256Z",
-                "id": 6
-              },
-              {
-                "username": "Ramu",
-                "email": "ramu123@ts.com",
-                "password": "123",
-                "toj": "2022-01-05T09:37:55.256Z",
-                "id": 2
-              }
+           
         ],
         "pdi_stu":[
-            {
-                "username": "aman",
-                "email": "aman@gmail.com",
-                "password": "123",
-                "profilepic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61Mv1Lqp-ceQoaJHCCVhJffG595ChzTTIuqkJUmZHZCiJ5RAGieDkLdYGks-5ZuAp1Co&usqp=CAU",
-                "gender": "Male",
-                "role": "Frontend",
-                "dob": "2011-02-10",
-                "state": "Bihar",
-                "city": "Bhagalpur",
-                "mobile": "9083487594",
-                "toj": "2023-02-10T07:18:58.076Z",
-                "id": 1
-              }
+           
         ],
         "pdi_lectures":[
            ]
