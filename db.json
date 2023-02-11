@@ -24242,42 +24242,7 @@
               }
         ],
         "pdi_lectures":[
-            {
-                "video": "https://masai-course.s3.ap-south-1.amazonaws.com/material/videos/29056/5iF8JWciV37EG1EqiEZ1gWUWrLrtiEuPRBPJqmwj.mp4",
-                "title": "Linked List",
-                "description": "hdjksl;",
-                "role": "Backend",
-                "timeOfCreation": "2023-02-10T04:17:43.732Z",
-                "createdBy": "rss",
-                "id": 2
-              },
-              {
-                "video": "https://masai-course.s3.ap-south-1.amazonaws.com/material/videos/29056/5iF8JWciV37EG1EqiEZ1gWUWrLrtiEuPRBPJqmwj.mp4",
-                "title": "AWS",
-                "description": "hdjksl;",
-                "role": "Frontend",
-                "timeOfCreation": "2022-02-15T04:17:43.732Z",
-                "createdBy": "Sonali",
-                "id": 13
-              },
-              {
-                "video": "https://masai-course.s3.ap-south-1.amazonaws.com/material/videos/29056/5iF8JWciV37EG1EqiEZ1gWUWrLrtiEuPRBPJqmwj.mp4",
-                "title": "Recursion",
-                "description": "hdjksl;",
-                "role": "Full Stack",
-                "timeOfCreation": "2023-02-10T04:17:43.732Z",
-                "createdBy": "rss",
-                "id": 12
-              },
-              {
-                "video": "https://masai-course.s3.ap-south-1.amazonaws.com/lecture/657/material/b4288d9c0ec0a1841b3b3728321e7088/react-state-props.mp4",
-                "title": "Linked List",
-                "description": "hdjksl;",
-                "role": "Backend",
-                "timeOfCreation": "2023-02-10T04:17:43.732Z",
-                "createdBy": "rss",
-                "id": 11
-              }]
+           ]
     
 
 }
